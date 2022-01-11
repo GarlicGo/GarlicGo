@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GarlicGo
-- 👀 I once worked as an intern at Bytedance and have always been interested in front-end technology, such as ✨ React、Node.js、Koa、Egg.js... ✨
+- 👀 I once interned at Bytedance and have always been interested in front-end technology, such as React、Node.js、Koa、Egg.js...
 - 🌱 I’m currently learning OpenCV.
 - 📫 The way to reach me: garlicgo@qq.com
