@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @GarlicGo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GarlicGo/GarlicGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I once worked as an intern at Bytedance and have always been interested in front-end technology, such as ✨ React、Node.js、Koa、Egg.js... ✨
+- 🌱 I’m currently learning OpenCV.
+- 📫 The way to reach me: garlicgo@qq.com
