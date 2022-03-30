@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GarlicGo
-- 👀 I once interned at Bytedance and interested in frontend tech like TypeScript, React, Node.js, Koa, Egg.js...
-- 🌱 I’m currently learning OpenCV, nodejs and micro service.
+- 👀 I once interned at Bytedance and interested in React, Node.js, Pytorch...
 - 🎮 Like to play some games recently, including Genshin, MC.
 - 📫 Reach me: garlicgo@qq.com
