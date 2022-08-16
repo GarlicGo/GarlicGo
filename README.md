@@ -4,7 +4,11 @@
 - 📫 Reach me: garlicgo@qq.com | garlicgo999@gmail.com | zhouxinyu.garlicgo@mail.nwpu.edu.cn
 
 <div align="center">
-  <h3>Some of my public work</h3>
+  <h3>
+  
+  Some of my public work in [WanYi-TCM](https://github.com/WanYi-TCM/WanYi-Introduce)
+  
+  </h3>
 </div>
 
 | [万义中医小程序](./images/wyzy-qrcode.png) | [东营中医药网](https://www.dyzyxh.cn) | [万义中医学校官网](https://www.dyzyxh.cn/wyzyschool) |
