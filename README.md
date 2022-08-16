@@ -11,3 +11,6 @@
 | :----: | :----: | :----: |
 | ![万义中医小程序码](./images/wyzy-home.jpg) | ![东营中医药网](./images/dyzyyw-home.png) | ![万义中医学校官网](./images/wyzyschool-home.png) |
 | 一款中医常见病辅助诊断小程序 | 东营市中医协会官方网站 | 万义中医学校官方网站 |
+
+@WanYi-TCM
+@Morilence
