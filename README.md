@@ -2,7 +2,7 @@
 - 👀 Interested in Front-End and have some experience...
 - 🎮 Like to play games recently, such as Genshin, MC...
 - 📫 Reach me: garlicgo@qq.com | garlicgo999@gmail.com｜zhouxinyu.garlicgo@mail.nwpu.edu.cn
-- ✨ [自己的Blog](https://garlicgo.github.io/)｜[和朋友一起维护的Blog](https://github.com/Abyss-Coder/blog)
+- ✨ Blog: [自己的Blog](https://garlicgo.github.io/)｜[和朋友一起维护的Blog](https://github.com/Abyss-Coder/blog)
 
 <div align="center">
   <h3>
