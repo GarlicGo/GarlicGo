@@ -16,15 +16,3 @@
 | :----: | :----: | :----: |
 | ![万义中医小程序码](./images/wyzy-home.jpg) | ![东营中医药网](./images/dyzyyw-home.png) | ![万义中医学校官网](./images/wyzyschool-home.png) |
 | 一款中医常见病辅助诊断小程序 | 东营市中医协会官方网站 | 万义中医学校官方网站 |
-
-<div align="center">
-  <h3>
-  
-  Some interesting stuff
-  
-  </h3>
-</div>
-
-| [小迪棋牌室](https://github.com/GarlicGo/XiaoDiRoom) | [点滴记账APP](https://github.com/GarlicGo/GMT-LittleDrop) |
-| :----: | :----: |
-| ![小迪棋牌室](./images/xiaodiroom.png) | ![东营中医药网](./images/diandi.png) |
