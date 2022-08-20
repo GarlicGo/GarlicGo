@@ -7,7 +7,7 @@
 <div align="center">
   <h3>
   
-  Some of my public work in [WanYi-TCM](https://github.com/WanYi-TCM/WanYi-Introduce)
+  Some of my work in [WanYi-TCM](https://github.com/WanYi-TCM)
   
   </h3>
 </div>
